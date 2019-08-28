@@ -1,0 +1,12 @@
+# Gitment
+# Introduction: https://imsun.net/posts/gitment-introduction/
+gitment:
+  enable: true
+  githubID: github帐号
+  repo: 仓库名  #例如：BlogComments
+  ClientID: Client ID
+  ClientSecret: Client Secret
+  lazy: flase  #false显示github评论框
+ ———————————————— 
+版权声明：本文为CSDN博主「守望之名」的原创文章，遵循CC 4.0 by-sa版权协议，转载请附上原文出处链接及本声明。
+原文链接：https://blog.csdn.net/hyb612/article/details/78299971
